@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2.customising the form1.1", "2.customising the form1.1\2.customising the form1.1.vbproj", "{01953E8D-9492-4E90-B7C7-3800D913762C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01953E8D-9492-4E90-B7C7-3800D913762C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01953E8D-9492-4E90-B7C7-3800D913762C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01953E8D-9492-4E90-B7C7-3800D913762C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01953E8D-9492-4E90-B7C7-3800D913762C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA9FBC4-CD11-4AA3-A677-1226B443A73B}
+	EndGlobalSection
+EndGlobal
